@@ -29,8 +29,8 @@ Full-stack developer, зараз активно будую портфоліо п
 
 ### 🚀 Обрані проєкти
 
-**[Multitenant SaaS Starter Kit](#)** — Next.js + PostgreSQL RLS + Redis/BullMQ. Ізоляція даних тенантів, черги, Stripe.
+**[Multitenant SaaS Starter Kit](https://github.com/VMMNick/saas-starter-kit)** — Next.js + PostgreSQL RLS + Redis/BullMQ. Ізоляція даних тенантів, черги, Stripe.
 
-**[Collaborative Code Review Platform](#)** — React + Node.js. Реал-тайм синхронізація через WebSocket.
+**[Collaborative Code Review Platform](https://github.com/VMMNick/code-review-hub)** — React + Node.js. Реал-тайм синхронізація через WebSocket.
 
-**[Smart Booking System](#)** — Vue + Node.js. Динамічне ціноутворення, обробка одночасних бронювань.
+**[Smart Booking System](https://github.com/VMMNick/smart-booking)** — Vue + Node.js. Динамічне ціноутворення, обробка одночасних бронювань.
