@@ -1,9 +1,6 @@
 # Привіт 👋 Я Коля
 
 Full-stack developer, зараз активно будую портфоліо проєктів рівня production.
-
-- 🔭 Зараз працюю над **multitenant SaaS starter kit** на Next.js — Row-Level Security, Redis + BullMQ для черг, Stripe webhooks
-- 🌱 Паралельно прокачую: WebSocket-синхронізацію, race conditions через DB-транзакції, CI/CD
 - 💼 Відкритий до full-stack / backend позицій
 
 <p>
