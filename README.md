@@ -21,13 +21,3 @@ Full-stack developer, зараз активно будую портфоліо п
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-### 🚀 Обрані проєкти
-
-**[Multitenant SaaS Starter Kit](https://github.com/VMMNick/saas-starter-kit)** — Next.js + PostgreSQL RLS + Redis/BullMQ. Ізоляція даних тенантів, черги, Stripe.
-
-**[Collaborative Code Review Platform](https://github.com/VMMNick/code-review-hub)** — React + Node.js. Реал-тайм синхронізація через WebSocket.
-
-**[Smart Booking System](https://github.com/VMMNick/smart-booking)** — Vue + Node.js. Динамічне ціноутворення, обробка одночасних бронювань.
